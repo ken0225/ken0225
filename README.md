@@ -1,4 +1,4 @@
-### Hi I'm Ken 👋
+### Hi, I'm Ken from Universidade Politécnica de Macau 👋
 
 <!-- My GitHub stats -->
 <p align="center">
